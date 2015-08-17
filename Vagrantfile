@@ -1,5 +1,8 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
+#
+# Modified version of https://github.com/roots/trellis/blob/master/Vagrantfile
+#
 
 require 'yaml'
 
